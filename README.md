@@ -34,7 +34,7 @@ The game will end.
 
 ## Visuals
 
-<img src="./assets/images/screenshot1.png" width="500">
+<img src="./assets/images/screenshot.png" width="500">
 
 ## Deploy
 https://thiago-nasciutti.github.io/robot-gladiators/
@@ -43,7 +43,7 @@ https://thiago-nasciutti.github.io/robot-gladiators/
 https://github.com/thiago-nasciutti/robot-gladiators
 
 ## Technologies
-<img src="./assets/images/technologies/js-logo.png" width="30">
+<img src="./assets/images/js.png" width="30">
 
 ## Support
 nasciutti.thiago@gmail.com
