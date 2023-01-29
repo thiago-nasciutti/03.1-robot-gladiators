@@ -9,7 +9,8 @@
  * [Technologies](#technologies)
  * [Support](#support)
  * [Author](#author)
-
+ * [Linkedin](#linkedin)
+ 
 ## Description
 
 The game will prompt the player to name their robot.
